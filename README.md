@@ -1,27 +1,34 @@
-# OVJobsByThem
+# Drumies 🥁
 
-## 🚀 About
+Drumies is a next-generation rhythm and percussion platform designed for producers, musicians, and creators who move culture through sound.
 
-OVJobsByThem is a modern job discovery and opportunity platform designed to connect talent with opportunity — efficiently, transparently, and equitably.
-
-Our mission is to simplify the job search experience while empowering both employers and job seekers with powerful tools and intuitive design.
+Provisioned by Mike, Drumies is a proudly minority-owned music technology initiative based in OV (Ocean View).
 
 ---
 
-## 🎯 Vision
+## 🌊 Our Roots
 
-To create a streamlined ecosystem where opportunity meets preparation — without bias, confusion, or unnecessary barriers.
+Born in OV. Built for the world.
 
----
+Drumies represents innovation rising from the community — proving that world-class music technology can grow locally and scale globally.
 
-## 🛠️ Tech Stack
-
-- Frontend: (React / Next.js / etc.)
-- Backend: (Node.js / Express / Django / etc.)
-- Database: (MongoDB / PostgreSQL / etc.)
-- Deployment: (Vercel / AWS / DigitalOcean / etc.)
+We believe access to professional rhythm tools should not be limited by geography, background, or opportunity.
 
 ---
 
-## 📦 Installation
+## 🎵 What Drumies Does
 
+Drumies allows creators to:
+
+- Build custom drum patterns
+- Access curated drum kits
+- Export high-quality audio
+- Collaborate with other artists
+- Experiment with modern rhythm tools directly in-browser
+
+---
+
+## ✊🏾 Minority-Owned Statement
+
+Drumies is proudly minority-owned and community-rooted.
+Provisioned with purpose. Built for creators.
